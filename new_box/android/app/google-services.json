@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745624111044",
+    "firebase_url": "https://esp32-8fdeb-default-rtdb.firebaseio.com",
+    "project_id": "esp32-8fdeb",
+    "storage_bucket": "esp32-8fdeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745624111044:android:021f7db2230069ae780691",
+        "android_client_info": {
+          "package_name": "com.example.smart_lunchbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCviO5V8yyHp-Lv4lKhO9k6R0CEugfnG0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
